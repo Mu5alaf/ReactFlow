@@ -68,6 +68,6 @@ The API returns appropriate HTTP status codes and error messages for various sce
 - 500 Internal Server Error: Server-side errors (e.g., issues with web scraping or OpenAI API)
 
 ## Demo
+Uploading Cloudilic0.mp4…
 
-https://github.com/user-attachments/assets/1226d457-9513-4dea-8465-b62f16a97b3e
 
